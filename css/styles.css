@@ -56,7 +56,7 @@ padding: 5%;
   position: absolute;
   right:20%;
 }
-@media(max-width:500px){
+@media(max-width:1000px){
   .rotated{
     transform: rotate(0deg);
     position: static;
